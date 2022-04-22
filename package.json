@@ -1,0 +1,20 @@
+{
+  "name": "electrodead",
+  "version": "1.0.0",
+  "description": "Back-end project for website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.7",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "puppeteer": "^13.5.2",
+    "ramda": "^0.28.0",
+    "winston": "^3.7.2"
+  }
+}
