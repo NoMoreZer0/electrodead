@@ -4,4 +4,4 @@ This is website for shopping laptop, smartphones and other stuff... In this webs
 1. That takes current EURO exchange to KZT.
 2. That takes user's geo location and shows it.
 
-To run the website run 'node server.js' and then open index.ejs file.
+To run the website run 'node server.js'.
